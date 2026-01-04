@@ -1,0 +1,13 @@
+.bg{
+    background-color: blue;
+    width: 500px;
+   
+}
+.images{
+    display: inline;
+    margin: 20px;
+    width: 200px;
+    height: auto;
+}
+
+
